@@ -1,0 +1,19 @@
+{
+  "name": "basedatos",
+  "version": "1.0.0",
+  "description": "Mock up de una base de datos en Jsccript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx @tailwindcss/cli -i ./src/db.css -o ./src/output.css --watch"
+  },
+  "author": "Stefano",
+  "license": "MIT",
+  "devDependencies": {
+    "daisyui": "^5.0.9"
+  },
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.0",
+    "tailwindcss": "^4.1.0"
+  }
+}
